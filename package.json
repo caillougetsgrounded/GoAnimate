@@ -1,0 +1,10 @@
+{
+  "name": "goanimate-render-server",
+  "version": "1.0.0",
+  "description": "GoAnimate Server running on Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
